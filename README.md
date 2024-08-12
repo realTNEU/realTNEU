@@ -14,8 +14,8 @@
 - 📫 How to reach me **ameyataneja2015@gmail.com**
 
 - 📄 Know about my experiences [ameyataneja.tiiny.site](ameyataneja.tiiny.site)
-
-- ⚡ Fun fact **My speacialization is CyberSecurity but I'm more into Web Developement**
+- 
+- ⚡ Fun fact **My specialisation is CyberSecurity but I'm more into Web Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
