@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realtneu" alt="realtneu" /></a> </p>
 
-- 🔭 I’m currently working on the website of Lost Cause **Lost Cause Website**
+- 🔭 I’m currently working on the website of **Lost Cause**
 
 - 🌱 I’m currently learning **DSA, Nextjs and Django**
 
