@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech CSE Student | Specializing in Cybersecurity & Forensics | Aspiring Full Stack Developer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on the website of Lost Cause<br>🌱 I’m currently learning DSA, Nextjs and Django<br>💬 Ask me about React, JavaScript, and APIs<br>📫 How to reach me ameyataneja2015@gmail.com<br>📄 Know about my experiences ameyataneja.tiiny.site
+🔭 I’m currently working on the website of Lost Cause<br>🌱 I’m currently learning DSA, Nextjs and Django<br>💬 Ask me about React, JavaScript, and APIs<br>📫 How to reach me ameyataneja2015@gmail.com<br>📄 Know about my experiences https://ameyanotfoumnd.lol
 
 
 ## 🌐 Socials:
