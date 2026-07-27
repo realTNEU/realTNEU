@@ -183,17 +183,6 @@ A football companion platform featuring live fixtures, statistics, notifications
 
 </p>
 
----
-
-# 📚 Top Languages
-
-<p align="center">
-
-<img width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realTNEU&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🐍 Contribution Snake
 
