@@ -198,20 +198,10 @@ A football companion platform featuring live fixtures, statistics, notifications
 # 🐍 Contribution Snake
 
 <p align="center">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/realTNEU/realTNEU/output/github-contribution-grid-snake-dark.svg">
-
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/realTNEU/realTNEU/output/github-contribution-grid-snake.svg">
-
-<img alt="GitHub Contribution Snake"
-src="https://raw.githubusercontent.com/realTNEU/realTNEU/output/github-contribution-grid-snake.svg">
-
-</picture>
-
+  <img
+    src="https://raw.githubusercontent.com/realTNEU/realTNEU/output/github-contribution-grid-snake-dark.svg"
+    alt="Snake animation"
+  />
 </p>
 
 ---
@@ -250,10 +240,6 @@ src="https://raw.githubusercontent.com/realTNEU/realTNEU/output/github-contribut
 
 <a href="https://dsc.gg/tneu">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord"/>
-</a>
-
-<a href="https://instagram.com/_.a.meh">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 
 <a href="https://x.com/TNEU_dznz">
