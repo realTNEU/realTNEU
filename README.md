@@ -9,7 +9,11 @@ Cybersecurity Engineer • Full Stack Developer • AI Builder
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="850" alt="Matrix Hacker"/>
+  <img
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtpMXp3endscDF1cHd0NGszZ2VoNzB2dGFtY3F0YjV5dWtlMzA0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3wr2cnwlghNomDeN9W/giphy.gif"
+    width="100%"
+    alt="Cybersecurity Terminal Animation"
+  />
 </p>
 
 <p align="center">
