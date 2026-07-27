@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ameya Taneja</h1>
 
 <h3 align="center">
-Cybersecurity Engineer • Full Stack Developer • AI Automation Builder
+Cybersecurity Engineer • Full Stack Developer • AI Builder
 </h3>
 
 <p align="center">
@@ -9,16 +9,47 @@ Cybersecurity Engineer • Full Stack Developer • AI Automation Builder
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700" alt="Coding GIF"/>
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="850" alt="Matrix Hacker"/>
 </p>
 
 <p align="center">
-<a href="https://ameyanotfound.lol"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/ameyataneja"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://github.com/realTNEU"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://dsc.gg/tneu"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://x.com/TNEU_dznz"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/></a>
-<a href="https://youtube.com/@realTNEU"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/></a>
+
+<a href="https://stillnotfoundameya.lol">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:ameyataneja2015@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/ameyataneja">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/realTNEU">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://dsc.gg/tneu">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/_.a.meh">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://x.com/TNEU_dznz">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+</a>
+
+<a href="https://youtube.com/@realTNEU">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
+</a>
+
+<a href="https://twitch.tv/realTNEU">
+<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -28,6 +59,8 @@ Cybersecurity Engineer • Full Stack Developer • AI Automation Builder
 ```typescript
 const ameya = {
     name: "Ameya Taneja",
+
+    role: "Cybersecurity Engineer & Full Stack Developer",
 
     education:
         "B.Tech Computer Science Engineering",
@@ -44,20 +77,21 @@ const ameya = {
         "WorldCupOS"
     ],
 
-    currentlyLearning: [
-        "Next.js",
+    learning: [
         "Go",
+        "Next.js",
         "System Design",
         "Cloud Infrastructure",
-        "Offensive Security"
+        "Offensive Security",
+        "Artificial Intelligence"
     ],
 
     interests: [
         "Cybersecurity",
-        "Artificial Intelligence",
         "Backend Engineering",
+        "Cloud",
         "Automation",
-        "Cloud Computing"
+        "AI"
     ],
 
     motto:
@@ -67,39 +101,35 @@ const ameya = {
 
 ---
 
-# 🚀 Current Focus
-
-- 🔐 Expanding my cybersecurity and offensive security skills
-- 🤖 Building AI-powered products and developer tools
-- ☁️ Learning scalable cloud architecture and DevOps
-- 🇯🇵 Preparing to move to Japan
-- 🌱 Contributing to open-source projects
-
----
-
 # 🌟 Featured Projects
 
 ## 🔥 SoulLeveler
 
 AI-powered productivity and habit tracking platform inspired by Solo Leveling.
 
-**Tech:** Next.js • React • PostgreSQL • AI • Node.js
+**Tech Stack**
+
+`Next.js` • `React` • `Node.js` • `PostgreSQL` • `AI`
 
 ---
 
 ## 🇯🇵 Kotoba
 
-A modern Japanese learning platform featuring structured lessons, quizzes, vocabulary practice, grammar, progress tracking, and AI-assisted learning.
+A modern Japanese learning platform featuring interactive lessons, quizzes, vocabulary practice, grammar guides, progress tracking, and AI-assisted learning.
 
-**Tech:** Next.js • React • PostgreSQL • Authentication • AI
+**Tech Stack**
+
+`Next.js` • `React` • `PostgreSQL` • `Authentication` • `AI`
 
 ---
 
 ## ⚽ WorldCupOS
 
-Football companion platform featuring live fixtures, match tracking, statistics, and community-focused tools.
+A football companion platform featuring live fixtures, statistics, notifications, and community-focused tools.
 
-**Tech:** React • Node.js • APIs • Real-time Data
+**Tech Stack**
+
+`React` • `Node.js` • `REST APIs` • `Real-time Data`
 
 ---
 
@@ -108,45 +138,59 @@ Football companion platform featuring live fixtures, match tracking, statistics,
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,go"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,go" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css,bootstrap" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
 </p>
 
 ### DevOps & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,cloudflare,linux,git,github,nginx"/>
+<img src="https://skillicons.dev/icons?i=docker,linux,cloudflare,git,github,nginx" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=figma,blender,photoshop,ae,pr"/>
+<img src="https://skillicons.dev/icons?i=figma,blender,photoshop,ae,pr" />
 </p>
 
 ---
 
-# 🐱‍💻 TryHackMe
+# 📈 GitHub Statistics
 
 <p align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/realTNEU.png" alt="TryHackMe Badge"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=realTNEU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=realTNEU&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📚 Top Languages
+
+<p align="center">
+
+<img width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realTNEU&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -154,40 +198,33 @@ Football companion platform featuring live fixtures, match tracking, statistics,
 # 🐍 Contribution Snake
 
 <p align="center">
+
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/realTNEU/realTNEU/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/realTNEU/realTNEU/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/realTNEU/realTNEU/output/github-contribution-grid-snake.svg"
-  />
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/realTNEU/realTNEU/output/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/realTNEU/realTNEU/output/github-contribution-grid-snake.svg">
+
+<img alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/realTNEU/realTNEU/output/github-contribution-grid-snake.svg">
+
 </picture>
-</p>
 
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=realTNEU&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
 # 📚 Currently Learning
 
-- Offensive Security
-- Penetration Testing
-- Cloud Infrastructure
-- AI Engineering
-- Large Language Models
-- Japanese 🇯🇵 (JLPT)
+- 🔐 Offensive Security
+- 🛡️ Penetration Testing
+- ☁️ Cloud Infrastructure
+- 🤖 Artificial Intelligence
+- ⚙️ System Design
+- 🐹 Go
+- 🇯🇵 Japanese (JLPT)
 
 ---
 
@@ -195,44 +232,42 @@ Football companion platform featuring live fixtures, match tracking, statistics,
 
 <p align="center">
 
-<a href="mailto:ameyataneja2015@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://stillnotfoundameya.lol">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://ameyanotfound.lol">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="mailto:ameyataneja2015@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/ameyataneja">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://instagram.com/_.a.meh">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://github.com/realTNEU">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://dsc.gg/tneu">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord"/>
 </a>
 
-<a href="https://twitch.tv/realTNEU">
-<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
-</a>
-
-<a href="https://youtube.com/@realTNEU">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
+<a href="https://instagram.com/_.a.meh">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 
 <a href="https://x.com/TNEU_dznz">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
 </a>
 
-</p>
+<a href="https://youtube.com/@realTNEU">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
+</a>
 
----
+<a href="https://twitch.tv/realTNEU">
+<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch"/>
+</a>
 
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
@@ -242,5 +277,5 @@ Football companion platform featuring live fixtures, match tracking, statistics,
 </p>
 
 <h3 align="center">
-⭐ Thanks for stopping by! Feel free to check out my repositories and connect with me.
+⭐ Thanks for visiting my profile! If you like my work, consider giving a ⭐ to my repositories.
 </h3>
